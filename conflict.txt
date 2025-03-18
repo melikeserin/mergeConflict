@@ -1,1 +1,1 @@
-bu satir main branch tarafindan guncellenir
+bu satir hem main hem feature-branch için guncellendi
