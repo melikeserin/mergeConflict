@@ -1,1 +1,1 @@
-merge conflict kısmını iyice pekiştirdim önceden pek anlamamıştım
+merge conflict kismini iyice pekistirdim onceden pek anlamamistim
